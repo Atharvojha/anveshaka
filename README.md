@@ -1,8 +1,6 @@
 # Anveshaka · अन्वेषक
 
-**A research-matching platform for IIIT Hyderabad — built to fix how students and professors actually find each other.**
-
-▶ [Open the live app](./index.html)
+**A research-matching platform for IIIT Hyderabad , built to fix how students and professors actually find each other.**
 
 ---
 
@@ -35,9 +33,6 @@ Open `index.html` (or the live GitHub Pages link above) and switch between the *
 - **Student** — discover projects with transparent match scores, check a project's skill gaps, clear the paper-checkpoint before applying, and see your own commitment/reliability scores.
 - **Professor** — see your lab's supervision overview, browse ranked applicants, get suggested project teams, and post in your department's society.
 
-## What's in this repo
-
-- `index.html` — the full, self-contained web app (no build step, no dependencies — just open it in a browser)
 
 ## About
 
